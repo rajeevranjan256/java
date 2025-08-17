@@ -17,5 +17,9 @@ public class circle {
         float area = 3.14f * rad * rad;
         System.out.println("Area of Circle: " + area);
         sc.close();
+
+
+
+        
     }
 }
